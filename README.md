@@ -144,24 +144,4 @@ A GitHub Actions workflow is configured to:
 
 ---
 
-## Challenges & Considerations
 
-* Handling inconsistent schemas across vendors
-* Managing different date formats
-* Ensuring robustness against missing or malformed data
-* Maintaining a scalable and modular structure
-
----
-
-## Future Improvements
-
-* Add schema validation using a formal framework
-* Introduce unit tests
-* Extend pipeline to support new data sources
-* Integrate with scheduling tools (e.g., Airflow)
-
----
-
-## Conclusion
-
-This pipeline demonstrates a modular and scalable approach to solving real-world data standardization problems, with emphasis on data quality, traceability, and maintainability.
